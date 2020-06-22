@@ -1,4 +1,6 @@
-[ BUG - HUNTERS ] Automated reccon script tool. [ BUG-BOUNTY ]
+<h1>[ BUG - HUNTERS ]</h1>
+
+Automated reccon script tool. [ BUG-BOUNTY ]
 
 To use go must be installed.
 
@@ -6,7 +8,7 @@ It is not installed uncomment the dependent lines at the beginning of the code t
 
 The code can be changed to the wordlist to make recons of subdomains, adding your directory.
 
-#install dependency
+<h1>#install dependency</h1>
 [x] goland - https://golang.org/doc/install
 [x] GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/cmd/subfinder
 [x] go get -u github.com/tomnomnom/assetfinder
