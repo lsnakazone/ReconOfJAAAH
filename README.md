@@ -24,4 +24,4 @@ The code can be changed to the wordlist to make recons of subdomains, adding you
 
 https://www.linkedin.com/in/atjunior/
 
-![marvin](https://user-images.githubusercontent.com/28729614/85303574-ac6b2680-b478-11ea-9648-53ee37786a75.gif)
+<center>![marvin](https://user-images.githubusercontent.com/28729614/85303574-ac6b2680-b478-11ea-9648-53ee37786a75.gif)</center>
