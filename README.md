@@ -23,6 +23,11 @@ The code can be changed to the wordlist to make recons of subdomains, adding you
  - [x] go get github.com/tomnomnom/waybackurls
  - [x] GO111MODULE=on go get -u -v github.com/projectdiscovery/nuclei/cmd/nuclei
  - [x] git clone https://github.com/projectdiscovery/nuclei-templates.git
+ 
+ <h1>Run</h1>
+ 
+ chmod +x ofjaaah.sh 
+ ./ofjaaah hackerone.com
 
 https://www.linkedin.com/in/atjunior/
 
