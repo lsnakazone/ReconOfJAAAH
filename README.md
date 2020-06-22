@@ -1,5 +1,7 @@
 <h1>[ BUG - HUNTERS ]</h1>
 
+![hunt](https://user-images.githubusercontent.com/28729614/85304422-bc373a80-b479-11ea-89ab-37ba03f9ffe7.gif)
+
 Automated reccon script tool. [ BUG-BOUNTY ]
 
 Automated tool based on https://github.com/tomnomnom/ tools
