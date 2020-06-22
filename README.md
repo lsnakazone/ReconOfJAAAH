@@ -26,8 +26,8 @@ The code can be changed to the wordlist to make recons of subdomains, adding you
  
  <h1>Run</h1>
  
- chmod +x ofjaaah.sh 
- ./ofjaaah hackerone.com
+chmod +x ofjaaah.sh 
+./ofjaaah hackerone.com
 
 https://www.linkedin.com/in/atjunior/
 
