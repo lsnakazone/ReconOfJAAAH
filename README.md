@@ -24,8 +24,10 @@ The code can be changed to the wordlist to make recons of subdomains, adding you
  - [x] GO111MODULE=on go get -u -v github.com/projectdiscovery/nuclei/cmd/nuclei
  - [x] git clone https://github.com/projectdiscovery/nuclei-templates.git
  
+- Remembering that you need to configure where the files are in your local directories.
+
  <h1>Run</h1>
- 
+
 - chmod +x ofjaaah.sh 
 - ./ofjaaah.sh site
 
